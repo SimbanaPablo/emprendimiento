@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322196719953",
+    "project_id": "multiproductosmascotas",
+    "storage_bucket": "multiproductosmascotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322196719953:android:e1d306f3d44c28a4716b70",
+        "android_client_info": {
+          "package_name": "com.emprendimiento.multiproductosmascotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACGO8q4xr0W356L3leznWfMBN1rN0oxZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
