@@ -41,8 +41,8 @@ public class CardActivity extends BaseActivity {
     private Calendar currentDate;
     private DatabaseReference databaseReference;
     private  double tax;
-    String SECRET_KEY="sk_test_51Phgkj2NcRkGYU6dDRq4jvUGqwqQ5loMUQEdlrrAbe14AHqTABNdGnMMHb2XCux9Psu0ODGWkjD3IoFApt4lVMMm00OxBXIUGL";
-    String PUBLISH_KEY="pk_test_51Phgkj2NcRkGYU6dXR8bZVy4iVnp6iOk9wxw9jvNKz2Tdc12lnLg24pkGJURgD7EHqr6AITwX8C4WAqkWTYPQXp600KHb12GOr";
+    String SECRET_KEY="your-token";
+    String PUBLISH_KEY="your-token";
     PaymentSheet paymentSheet;
     String customerID;
     String Ephericalkey;
